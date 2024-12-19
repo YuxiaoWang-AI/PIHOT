@@ -1,0 +1,6 @@
+numpy
+scipy
+opencv-python
+yacs
+tqdm
+albumentations==1.4.3
